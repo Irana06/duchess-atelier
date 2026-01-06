@@ -27,6 +27,7 @@ The illustration should closely follow the **provided reference image** in pose,
 
 ## Owl
 - Perched on one shoulder
+- A type of snowy owl
 - Elegant, calm, wise look
 - Stylized (not realistic, not chibi)
 
