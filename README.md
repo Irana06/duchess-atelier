@@ -23,6 +23,7 @@ The illustration should closely follow the **provided reference image** in pose,
   - Elegant duchess-style dress
   - Matching the hair color palette
   - Similar elegance level to reference (not cosplay-heavy)
+  - Should be **as close as possible to the ilustration image**
 
 ## Owl
 - Perched on one shoulder
