@@ -5,7 +5,7 @@ Elegant brand logo featuring a **Duchess (Princess)** with an **owl on her shoul
 The illustration should closely follow the **provided reference image** in pose, mood, and composition.
 
 ## Composition
-- Bust / half-body (chest to head)
+- Bust / half-body (stomach to head)
 - Sitting pose implied
 - Focus on head, shoulders, and owl
 - Clean and logo-friendly
