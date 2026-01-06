@@ -1,4 +1,4 @@
-# Duchess Atelier — Logo Illustration (Short Brief)
+# Duchess Atelier — Logo Illustration
 
 ## Concept
 Elegant brand logo featuring a **Duchess (Princess)** with an **owl on her shoulder**.
