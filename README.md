@@ -18,7 +18,7 @@ The illustration should closely follow the **provided reference image** in pose,
 ## Character Reference (IMPORTANT)
 - Princess + owl pose should be **as close as possible to the reference image**
 - Hair color: **same as reference image** (ONLY hair color)
-- Hairstyle: elegant, flowy
+- Hairstyle: Should be **as close as possible to the ilustration image**
 - Outfit:
   - Elegant duchess-style dress
   - Matching the hair color palette
